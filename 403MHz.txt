@@ -1,0 +1,29 @@
+**** YAGI UDA ANTENNA ****
+Design by www.changpuak.ch
+---------------------------------------------------
+Frequency  :  403  MHz
+Wavelength :  744.417  mm
+d/lambda   :  0.013    ( min.: 0.001 , max.: 0.04 )
+D/lambda   :  0.019    ( min.: 0.002 , max.: 0.04 )
+Boomlength :  596  mm
+Elements   :  5
+Gain       :  8.8  dB    (approx.)
+---------------------------------------------------
+Reflector Length [mm] : 358
+Reflector Position [mm] : 0
+---------------------------------
+Dipole Length [mm] : 359
+Dipole Position [mm] : 149
+---------------------------------
+Director Length [mm] : 331
+Director Position [mm] : 298
+---------------------------------
+Director Length [mm] : 331
+Director Position [mm] : 447
+---------------------------------
+Director Length [mm] : 331
+Director Position [mm] : 596
+---------------------------------
+Calculations based on NBS TECHNICAL NOTE 688
+Length might be slightly too long.
+Manufacturing Tolerances : < 1  mm 
