@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+C:\Users\TamasSzabo\Documents\GitHub\DIY-Yagi-Uda\Balun-match\Project Outputs for Balun-match\Pick Place\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28-04-26
+Time:       09:10
+Revision:   168bc9c298308492d48e834b4d1bac413b4a6f30
+Variant:    No variations
+Units used: mm
+
+Designator Comment        Layer    Footprint      Center-X(mm) Center-Y(mm) Rotation Description                                                        Ref-X(mm) Ref-Y(mm) #JLCPCB 
+J1         60311002114501 TopLayer 60311002114501 2.0000       0.0000       270      "Rf Coax Conn, Sma R/A Jack, 50 Ohm, Pcb Rohs Compliant: Yes"      2.0000    0.0000    ""      
+L2         Inductor       TopLayer CAPC0603N      15.3000      1.0000       180      ""                                                                 15.3000   1.0000    ""      
+L1         Inductor       TopLayer CAPC0603N      18.0000      -1.8000      90       ""                                                                 18.0000   -1.8000   ""      
+X3         Cap            TopLayer CAPC0603N      12.0000      -0.8000      90       "Multilayer Ceramic Capacitors MLCC - SMD/SMT 1pF 50V 0603 RoHS"   12.0000   -0.8000   ""      
+X2         Cap            TopLayer CAPC0603N      7.0000       -0.8000      90       "Multilayer Ceramic Capacitors MLCC - SMD/SMT 1pF 50V 0603 RoHS"   7.0000    -0.8000   ""      
+X1         Res            TopLayer RESC0603N      9.5000       0.0000       0        "Chip Resistor - Surface Mount 0Ohms ±1% 1/10W 0603 RoHS"          9.5000    0.0000    C21189  
+Right      TAB            TopLayer TAB            23.5000      7.5000       90       ""                                                                 23.5000   7.5000    ""      
+R2         Res            TopLayer RESC0603N      20.0000      1.8500       270      "Chip Resistor - Surface Mount 49.9Ohms ±1% 1/10W 0603 RoHS"       20.0000   1.8500    C23185  
+R1         Res            TopLayer RESC0603N      20.0000      -1.8500      90       "Chip Resistor - Surface Mount 49.9Ohms ±1% 1/10W 0603 RoHS"       20.0000   -1.8500   C23185  
+Left       TAB            TopLayer TAB            23.5000      -7.5000      90       ""                                                                 23.5000   -7.5000   ""      
+C2         Cap            TopLayer CAPC0603N      18.0000      1.8000       270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.7pF 50V 0603 RoHS" 18.0000   1.8000    ""      
+C1         Cap            TopLayer CAPC0603N      15.3000      -1.0000      180      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.7pF 50V 0603 RoHS" 15.3000   -1.0000   ""      
